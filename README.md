@@ -1,129 +1,151 @@
-<div align="center">
-
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Saptak+Bhattacharyya+;Mern+Stack+Developer;Full+Stack+Developer+;UI%2FUX+DESIGNER" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</div>
-
-
-## **ELECTRO-SPHERE 2026-WINNER** • **Full-Stack Developer** • **Problem Solver**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/saptak-bhattacharyya-06aa05388/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/SaptakBhattacharyyaCodez/)
-
-</div>
-
-
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Frontend Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-
-### Backend Development
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-
-### Design Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
-### Version Control & Tools
-<img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-
-</div>
-
-
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table  border="1">
-<tr>
-
-<td width="50%" valign="top">
-<div align="center">
-
-### 📚 DIGITAL PRODUCT DESIGN AGENCY | FRONTEND Web Application
-
-
-**This project is a frontend clone of the Lazarev design agency homepage.
-It was built using HTML, CSS, JavaScript, GSAP, and Bootstrap to replicate the modern, minimal, and animated design style of the original site.**
-
-<p align="left">
- 📖 Features
-Responsive layout built with Bootstrap
-Smooth animations powered by GSAP <br/>
-🏷️Semantic HTML structure for clarity and maintainability <br/>
-😎Custom CSS styling for pixel-perfect replication
-Interactive navigation and buttons<br/>
-🎨Dark-themed design with green accent highlightss<br/>
-</p>
-
-<a href="https://github.com/SaptakBhattacharyya/frontend-Lazarev-Digital-Product-Design-Agency-Webpage.git">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
-</div>
-</td>
-
-<td width="50%" valign="top">
-<div align="center">
-
-### 👔DECURE Clone | Full Stack Application
-
-**DECURE Clone Overview This project is a frontend-only clone of the DECURE home interior shopping website. It replicates the layout, design, and promotional elements using HTML and CSS without any backend functionality. The goal is to practice semantic structure, responsive design, and aesthetic replication.**
-
-<p align="left">
-✅ Features
-Promotional banner showcasing festive season offers
-Navigation bar with categories: Kitchen, Bathroom, Home Decor, Living Room, Bedroom, Dining Room, Shop By Brand, Furniture <br/>
-⚙️Search, login, and shopping cart icons
-Hero section with promotional tagline: "Buy online, build offline !™"
-Interior showcase with styled furniture and decor items
-Responsive layout for different screen sizes<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saptak%20Bhattacharyya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Saptak+Bhattacharyya;Full+Stack+Developer+💻;MERN+%7C+Next.js+%7C+FastAPI+Builder;UI%2FUX+Enthusiast+%26+Problem+Solver;Always+Learning,+Always+Shipping+🚀" />
 </p>
 
 
-<a href="https://github.com/SaptakBhattacharyya/decure-web5.git">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+---
+
+## 👨‍💻 About Me
+
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="190" width="400" align="right" style="margin-left:20px;" />
+</p>
+
+- 👨‍💻 Full Stack Developer specializing in **MERN Stack & Next.js**
+- 💊 Currently building **MedRemind** — a Smart Medication Reminder App
+- 🌱 Exploring **FastAPI · Next.js · Scalable System Design**
+- 🎨 Passionate about **clean UI/UX & pixel-perfect interfaces**
+- 🧠 Strong in **DSA & Problem Solving** (LeetCode grinder 💪)
+- 🤝 Love collaborating on **open source & real-world products**
+- 💡 Fun fact: I believe great design is not just how it *looks*, but how *effortlessly it works* 🇮🇳
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:saptak.bhattacharyya.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://saptak-bhattacharyya-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saptak-bhattacharyya-06aa05388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SaptakCodez">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@saptak-codez">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/SaptakBhattacharyyaCodez/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<h3>Languages</h3>
+
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+<br/><br/>
+
+<h3>Frontend</h3>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<br/><br/>
+
+<h3>Backend</h3>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br/><br/>
+
+<h3>Database & Cloud</h3>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+<br/><br/>
+
+<h3>Tools & Design</h3>
+
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 💊 MedRemind — Smart Medication Reminder App
+
+> *Never miss a dose. Stay on track. Live healthier.*
+
+<a href="https://medremind-z2yo.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-medremind--z2yo.vercel.app-38BDF8?style=for-the-badge" />
 </a>
 
 </div>
-</td>
-
-</tr>
-
-</table>
-</div>
-
-## 🛠️ Technology
-
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,js,tailwind,html,css,mongodb,postman,github,git,figma,netlify,npm&perline=8&theme=dark" alt="Tech Stack"/>
 
 <br/>
-<br/>
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=saira&weight=800&size=60&letterSpacing=2&pause=1000&center=true&vCenter=true&width=435&lines=Thank+You)](https://git.io/typing-svg)
+| Feature | Description |
+|---|---|
+| 💊 **Medication Tracking** | Add, manage, and track all your medications in one place |
+| ⏰ **Smart Reminders** | Never miss a dose with intelligent notification scheduling |
+| 📊 **Adherence Insights** | Visual reports to monitor your medication consistency |
+| 🎨 **Clean UI** | Minimal, accessible, and mobile-friendly interface |
+
+**Stack:** `React` · `Node.js` · `MongoDB` · `TailwindCSS` · `Vercel`
+
+---
+
+
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaptakBhattacharyya&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=38bdf8" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaptakBhattacharyya&theme=github-compact&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ If you find something useful, consider starring my repositories!</i><br/><br/>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-38bdf8.svg?style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%" />
