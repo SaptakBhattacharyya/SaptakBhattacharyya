@@ -98,28 +98,12 @@
 
 ---
 
-## 🚀 Featured Project
 
 <div align="center">
 
-### 💊 MedRemind — Smart Medication Reminder App
 
-> *Never miss a dose. Stay on track. Live healthier.*
 
-<a href="https://medremind-z2yo.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-medremind--z2yo.vercel.app-38BDF8?style=for-the-badge" />
-</a>
 
-</div>
-
-<br/>
-
-| Feature | Description |
-|---|---|
-| 💊 **Medication Tracking** | Add, manage, and track all your medications in one place |
-| ⏰ **Smart Reminders** | Never miss a dose with intelligent notification scheduling |
-| 📊 **Adherence Insights** | Visual reports to monitor your medication consistency |
-| 🎨 **Clean UI** | Minimal, accessible, and mobile-friendly interface |
 
 **Stack:** `React` · `Node.js` · `MongoDB` · `TailwindCSS` · `Vercel`
 
