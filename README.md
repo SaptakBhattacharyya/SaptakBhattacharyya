@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saptak%20Bhattacharyya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Saptak+Bhattacharyya;Full+Stack+Developer+💻;MERN+%7C+Next.js+%7C+FastAPI+Builder;UI%2FUX+Enthusiast+%26+Problem+Solver;Always+Learning,+Always+Shipping+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Saptak+Bhattacharyya;Full+Stack+Developer+💻;MERN+%7C+RestAPI+Builder;UI%2FUX+Enthusiast+%26+Problem+Solver;Always+Learning,+Always+Shipping+🚀" />
 </p>
 
 
