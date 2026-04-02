@@ -15,7 +15,7 @@
 
 - 👨‍💻 Full Stack Developer specializing in **MERN Stack & Next.js**
 - 💊 Currently building **MedRemind** — a Smart Medication Reminder App
-- 🌱 Exploring **FastAPI · Next.js · Scalable System Design**
+- 🌱 Exploring **RestAPI · Node.js · Scalable backend**
 - 🎨 Passionate about **clean UI/UX & pixel-perfect interfaces**
 - 🧠 Strong in **DSA & Problem Solving** (LeetCode grinder 💪)
 - 🤝 Love collaborating on **open source & real-world products**
