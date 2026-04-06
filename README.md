@@ -2,10 +2,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Saptak+Bhattacharyya;Full+Stack+Developer+💻;MERN+%7C+RestAPI+Builder;UI%2FUX+Enthusiast+%26+Problem+Solver;Always+Learning,+Always+Shipping+🚀" />
 </p>
+<div align="center">
+<img src="https://img.shields.io/badge/🚀%20Open%20To%20Work-7c3aed?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=atulXdev&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20India-4c1d95?style=for-the-badge"/>
+</div>
 
-
-
----
 
 ## 👨‍💻 About Me
 
