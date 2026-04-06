@@ -14,12 +14,12 @@
 </p>
 
 - 👨‍💻 Full Stack Developer specializing in **MERN Stack & Next.js**
-- 💊 Currently building **MedRemind** — a Smart Medication Reminder App
+- 💊 Currently building **MedRemind** — a Smart Reminder
 - 🌱 Exploring **RestAPI · Node.js · Scalable backend**
 - 🎨 Passionate about **clean UI/UX & pixel-perfect interfaces**
 - 🧠 Strong in **DSA & Problem Solving**
 - 🤝 Love collaborating on **open source & real-world products**
-- 💡 Fun fact:I believe design is not just how it *looks*, but how *effortlessly works* 🇮🇳
+- 💡 Fun fact:I believe design is not just how it *looks*
 
 ---
 
